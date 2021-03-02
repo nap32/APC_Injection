@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APC_Injection", "APC_Injection.csproj", "{1B10D263-0B31-485B-BAD9-6E70E578CEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B10D263-0B31-485B-BAD9-6E70E578CEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B10D263-0B31-485B-BAD9-6E70E578CEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B10D263-0B31-485B-BAD9-6E70E578CEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B10D263-0B31-485B-BAD9-6E70E578CEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC315DE-1066-4532-B09E-C928D4E0D5A2}
+	EndGlobalSection
+EndGlobal
